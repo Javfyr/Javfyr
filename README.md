@@ -14,3 +14,5 @@
 -->
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=javfyr&theme=highcontrast&show_icons=true&count_private=true)
+
+![Github stats](https://github-readme-stats.vercel.app/api?username=javfyr&theme=highcontrast&show_icons=true&count_private=true)
